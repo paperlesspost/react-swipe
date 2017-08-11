@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git://github.com/voronianski/react-swipe.git"
   },
-  "main": "index.js",
+  "main": "dist/react-swipe.js",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.0",
