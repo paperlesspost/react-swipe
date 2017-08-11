@@ -22,8 +22,8 @@
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.0",
-    "swipe-js-iso": "^2.0.3",
-    "prop-types": "^15.5.7"
+    "prop-types": "^15.5.7",
+    "swipe-js-iso": "https://github.com/voronianski/swipe-js-iso"
   },
   "peerDependencies": {
     "react": "^15.5.0"
